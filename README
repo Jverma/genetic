@@ -1,0 +1,6 @@
+Python implementation of the Genetic algorithm. We tried to fit straight line through the data points which is a collection of (x,y) values.
+
+To run : 
+python fitness.py data_file.txt
+
+Change the fitness function (in genetic.py) according to the data and run the script to get the results. 
